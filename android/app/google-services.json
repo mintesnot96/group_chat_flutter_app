@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643682376578",
+    "project_id": "groupchatflutter-af3e3",
+    "storage_bucket": "groupchatflutter-af3e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643682376578:android:ed45c6318dbf86cf348d9b",
+        "android_client_info": {
+          "package_name": "com.mifatech.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643682376578-bqdd6oqbdbd5quf49tjjvq34paobn0m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mifatech.groupchat",
+            "certificate_hash": "86b614245c34965ff36b71ced9eafa2453f88e1a"
+          }
+        },
+        {
+          "client_id": "643682376578-invp5ncn82b9mcvn5flcfgo40mfcg6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJjrTHCD4ipiB_CI1h0kAEGvzW1EWfC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643682376578-invp5ncn82b9mcvn5flcfgo40mfcg6jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
